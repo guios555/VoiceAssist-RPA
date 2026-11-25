@@ -1,0 +1,13 @@
+{
+    "abrir navegador": "open_browser",
+    "abrir o navegador": "open_browser",
+    "abrir o google": "open_browser",
+    "verificar memória": "system_status",
+    "verificar cpu": "system_status",
+    "status do sistema": "system_status",
+    "minimizar tudo": "minimize_all",
+    "sair": "exit",
+    "encerrar por hoje": "exit",
+    "encerrar assistente": "exit",
+    "tchau wuai": "exit"
+}
